@@ -1,4 +1,4 @@
-# oct-ayush
+# ayush-c0n
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff" width="100%"/>
